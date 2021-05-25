@@ -1,0 +1,16 @@
+.MuiContainer-root{
+    margin: 20px 0;
+}
+
+.MuiFormControl-root{
+    width: 100% !important;
+    margin: 10px 0 !important;
+}
+
+h2{
+    font-size: 40px !important;
+}
+
+form{
+    padding: 30px;
+}
